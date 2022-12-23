@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace LibRaw_Wrapper.Properties
+namespace Form1.Properties
 {
     /// <summary>
     ///   用於查詢當地語系化字串等的強類型資源類別
